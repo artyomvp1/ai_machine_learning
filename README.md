@@ -14,7 +14,19 @@
 *Python integrates seamlessly with other languages (e.g., C++ for performance-critical operations and CUDA for GPU acceleration).*
 
 ---
+# CORE AI CONCEPTS
+**Machine Learning (ML):**  
+Study supervised, unsupervised, and reinforcement learning.  
+Use frameworks like Scikit-learn and TensorFlow/PyTorch. 
 
+**Deep Learning:**  
+Dive into neural networks, CNNs, RNNs, and transformers.  
+Work with TensorFlow, Keras, or PyTorch for deep learning models. 
+
+**Natural Language Processing (NLP):**  
+Explore libraries like spaCy, Hugging Face, and NLTK for text processing and understanding.  
+
+---
 # BOOKS
 ### 1. "Python Machine Learning" by Sebastian Raschka and Vahid Mirjalili  
 **Why it's great:** *Provides a solid foundation in Python, machine learning, and AI. It’s beginner-friendly, with step-by-step explanations and practical code examples.*  
