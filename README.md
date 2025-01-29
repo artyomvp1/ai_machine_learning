@@ -44,3 +44,4 @@ Explore libraries like spaCy, Hugging Face, and NLTK for text processing and und
 ### 4. "Practical Artificial Intelligence with Python" by Arnaldo Pérez Castaño  
 **Why it's great:** *Focuses on practical AI applications and includes projects like building chatbots, recommendation systems, and image recognition tools.*  
 **Covers:** *Machine learning, data preprocessing, TensorFlow, and NLP.*
+
