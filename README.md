@@ -41,6 +41,7 @@ Explore libraries like spaCy, Hugging Face, and NLTK for text processing and und
 **Why it's great:** *Ideal for those new to AI, it includes simple projects that make concepts easy to grasp.*  
 **Covers:** *Building AI algorithms, natural language processing, reinforcement learning, and deep learning basics.* 
 
+
 ### 4. "Practical Artificial Intelligence with Python" by Arnaldo Pérez Castaño  
 **Why it's great:** *Focuses on practical AI applications and includes projects like building chatbots, recommendation systems, and image recognition tools.*  
 **Covers:** *Machine learning, data preprocessing, TensorFlow, and NLP.*
